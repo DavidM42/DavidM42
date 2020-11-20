@@ -2,8 +2,6 @@ I'm David let me show you some of my
 
 ## Projects and specialties:
 
-[![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 * Some projects I [collaborate on with my brother](https://github.com/Merzlabs)
 * Browser Extensions:
   * One called [*wueXtension*](https://github.com/DavidM42/wueXtension) for my university
@@ -25,7 +23,11 @@ I'm David let me show you some of my
   * [*linux-notebook-status*](https://github.com/DavidM42/linux-notebook-status) Info about the status of your laptop 
   * [*rpi-cpu.gov*](https://github.com/DavidM42/rpi-cpu.gov) Changing the CPU governor of your RaspberryPi with
 
+## 📩 Developer Blog
 Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
+### Latest posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-
-_cards with info coming soon_
+## 🗣️ Languages I use
+[![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
