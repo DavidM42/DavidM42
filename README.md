@@ -27,11 +27,11 @@ I'm David let me show you some of my
 Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Working with Git without actually getting it](https://blog.merzlabs.com/posts/getting-git/)
 - [Install pdftk on CentOS 7 based shared hosting](https://blog.merzlabs.com/posts/pdftk-shared-hosting/)
 - [Autostart python scripts on boot with systemd](https://blog.merzlabs.com/posts/python-autostart-systemd/)
 - [A tale of a Cordova developer fighting with WebViews on iOS](https://blog.merzlabs.com/posts/webview-history/)
 - [Using Github Actions to archive Netlify Analytics data](https://blog.merzlabs.com/posts/netlify-analytics-archive/)
-- [How to read and save files in JavaScript starting with Chrome 86](https://blog.merzlabs.com/posts/native-file-system/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗣️ Languages I use
