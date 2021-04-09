@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
