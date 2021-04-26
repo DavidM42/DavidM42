@@ -27,7 +27,7 @@ I'm David let me show you some of my
 Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [Arduino convert int to const char*](https://blog.merzlabs.com/posts/arduino-int-const-char-conversion/)
+- [Arduino convert int to char](https://blog.merzlabs.com/posts/arduino-int-const-char-conversion/)
 - [Linux on ChromeOS (Crostini) is now usable for developers](https://blog.merzlabs.com/posts/crostini-now-usable/)
 - [Working with Git without actually getting it](https://blog.merzlabs.com/posts/getting-git/)
 - [Install pdftk on CentOS 7 based shared hosting](https://blog.merzlabs.com/posts/pdftk-shared-hosting/)
