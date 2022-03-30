@@ -27,11 +27,11 @@ I'm David let me show you some of my
 Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [The state of Apache Cordova in 2022 - My personal take](https://blog.merzlabs.com/posts/cordova-2022/)
 - [Getting a CVE number for a security issue in an open source project](https://blog.merzlabs.com/posts/oss-vulnerability/)
 - [How to make Cordova plugin development suck a little less](https://blog.merzlabs.com/posts/cordova-plugin-development/)
 - [Gifts From Open Source](https://blog.merzlabs.com/posts/my-oss/)
 - [Autostart JavaScript npm packages on boot with systemd](https://blog.merzlabs.com/posts/js-autostart-systemd/)
-- [Arduino convert int to char](https://blog.merzlabs.com/posts/arduino-int-const-char-conversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗣️ Languages I use
