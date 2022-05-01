@@ -6,15 +6,24 @@ I'm David let me show you some of my
 * Browser Extensions:
   * One called [*wueXtension*](https://github.com/DavidM42/wueXtension) for my university
   * A [*simple E2N web utility extension*](https://github.com/DavidM42/E2NCalculator) on top of the employee management tool E2N which my employer uses
-* Websites and Angular Single Page Applications:
+* Angular Single Page Applications:
   * [*beatipy*](https://github.com/DavidM42/beatipy) to sync your Spotify playlists with the vr game beatsaber
-  * [*wuel*](https://github.com/DavidM42/wuel) Index page to quickly navigate to scattered but important pages of my university
   * [*Finanztopf*](https://github.com/Merzlabs/finanztopf) to analyze your finances
   * [*Pecuniator*](https://github.com/Merzlabs/pecuniator) to easily script your financial analysis with javascript
+* Svelte Apps for everything
+  * [*zuckr*](https://github.com/DavidM42/zuckr) to warn you of rain
+  * [*angular-deepl-translations*](https://github.com/DavidM42/angular-deepl-translations) to speed up auto translating with deepL for angular (to improve my work efficiency)
+  * [*ects*](https://github.com/DavidM42/ects) to plan your degree and check your current progress
+  * [*haiku-haiko*](https://github.com/DavidM42/haiku-haiko) to write haikus online
+  * [*Train-Delay-Higher-Lower App*](https://github.com/DavidM42/App-Train-Delay-Higher-Lower) to waste time while guessing real world trasportation delays
+  * [*osthessen-nachrichten-aggregator*](https://github.com/DavidM42/osthessen-nachrichten-aggregator) pretty ui and ux for local news pages achieved by scraping them  
 * [*Latex-Starter*](https://github.com/DavidM42/Latex-Starter) LaTex template for all my university reports 
-* Projects using one of my favorite languages python:
+* Projects using python:
+  * [Video Transcription Pipeline](https://github.com/DavidM42/Video-Transcription-Pipeline) automatic pipeline to transcribe videos
+  * [Dymoprint Web Print](https://github.com/DavidM42/dymoprint-web-print) web interface for a USB label printer
   * [BillardCam](https://github.com/DavidM42/BillardCam) Web-App and Rest API to stream or capture my billard table from a top view camera
   * [PinPrintWeb](https://github.com/DavidM42/PinPrintWeb) A rapid prototype I built for someone to print the picture from a webcam via a simple web interface
+  * [wuel/navigo](https://github.com/DavidM42/wuel) Index page to quickly navigate to scattered but important pages of my university
   * [OpenEAN](https://github.com/DavidM42/OpenEAN) A REST-API wrapper library to retrieve information about a product from a nonprofit EAN Database
   <!-- TODO open source RevY ? -->
   * [Timealyzer](https://github.com/DavidM42/Timealyzer) Get the time you spent at specific locations by analysing your exported google location history
