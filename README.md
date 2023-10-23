@@ -36,11 +36,11 @@ I'm David let me show you some of my
 Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [I found a bug in an open source project - What to do next?](https://blog.merzlabs.com/posts/open-source-fix/)
 - [You cannot solve problems in open source by throwing money at them](https://blog.merzlabs.com/posts/help-oss-projects/)
 - [The 4-day-workweek is the best change in my career so far](https://blog.merzlabs.com/posts/four-day-workweek/)
 - [The state of Apache Cordova in 2022 - My personal take](https://blog.merzlabs.com/posts/cordova-2022/)
 - [Getting a CVE number for a security issue in an open source project](https://blog.merzlabs.com/posts/oss-vulnerability/)
-- [How to make Cordova plugin development suck a little less](https://blog.merzlabs.com/posts/cordova-plugin-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🗣️ Languages I use
