@@ -1,6 +1,6 @@
 I'm David let me show you some of my
 
-## Projects and specialties:
+## (Now Older) Projects and specialties:
 
 * Some projects I [collaborate on with my brother](https://github.com/Merzlabs)
 * Browser Extensions:
@@ -33,15 +33,7 @@ I'm David let me show you some of my
   * [*rpi-cpu.gov*](https://github.com/DavidM42/rpi-cpu.gov) Changing the CPU governor of your RaspberryPi with
 
 ## 📩 Developer Blog
-Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz.
-### Latest posts
-<!-- BLOG-POST-LIST:START -->
-- [Cordova is still not dead in 2024 - My personal take](https://blog.merzlabs.com/posts/cordova-2024/)
-- [The Cordova community survey](https://blog.merzlabs.com/posts/cordova-survey/)
-- [It&#39;s all about the community - Open Source Personas](https://blog.merzlabs.com/posts/open-source-personas/)
-- [I found a bug in an open source project - What to do next?](https://blog.merzlabs.com/posts/open-source-fix/)
-- [You cannot solve problems in open source by throwing money at them](https://blog.merzlabs.com/posts/help-oss-projects/)
-<!-- BLOG-POST-LIST:END -->
+Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz which I sadly don't have much time to update anymore.
 
 ## 🗣️ Languages I use
 [![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
