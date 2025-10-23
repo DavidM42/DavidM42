@@ -1,18 +1,18 @@
 I'm David let me show you some of my
 
-## (Now Older) Projects and specialties:
+## (Now pretty old and mostly abandoned) Projects:
 
-* Some projects I [collaborate on with my brother](https://github.com/Merzlabs)
+* Some projects I [collaborated on with my brother](https://github.com/Merzlabs)
 * Browser Extensions:
-  * One called [*wueXtension*](https://github.com/DavidM42/wueXtension) for my university
-  * A [*simple E2N web utility extension*](https://github.com/DavidM42/E2NCalculator) on top of the employee management tool E2N which my employer uses
+  * One called [*wueXtension*](https://github.com/DavidM42/wueXtension) for my former university
+  * A [*simple E2N web utility extension*](https://github.com/DavidM42/E2NCalculator) on top of the employee management tool E2N which my former employer used
 * Angular Single Page Applications:
   * [*beatipy*](https://github.com/DavidM42/beatipy) to sync your Spotify playlists with the vr game beatsaber
   * [*Finanztopf*](https://github.com/Merzlabs/finanztopf) to analyze your finances
   * [*Pecuniator*](https://github.com/Merzlabs/pecuniator) to easily script your financial analysis with javascript
 * Svelte Apps for everything
   * [*zuckr*](https://github.com/DavidM42/zuckr) to warn you of rain
-  * [*angular-deepl-translations*](https://github.com/DavidM42/angular-deepl-translations) to speed up auto translating with deepL for angular (to improve my work efficiency)
+  * [*angular-deepl-translations*](https://github.com/DavidM42/angular-deepl-translations) to speed up auto translating with deepL for angular (to improve my work efficiency at my former job)
   * [*ects*](https://github.com/DavidM42/ects) to plan your degree and check your current progress
   * [*haiku-haiko*](https://github.com/DavidM42/haiku-haiko) to write haikus online
   * [*Train-Delay-Higher-Lower App*](https://github.com/DavidM42/App-Train-Delay-Higher-Lower) to waste time while guessing real world trasportation delays
@@ -33,7 +33,7 @@ I'm David let me show you some of my
   * [*rpi-cpu.gov*](https://github.com/DavidM42/rpi-cpu.gov) Changing the CPU governor of your RaspberryPi with
 
 ## 📩 Developer Blog
-Check out my shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz which I sadly don't have much time to update anymore.
+My shared developer [blog](https://blog.merzlabs.com/) with my brother @NiklasMerz which I sadly don't have much time or motivation to update anymore.
 
 ## 🗣️ Languages I use
 [![](https://raw.githubusercontent.com/DavidM42/DavidM42/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
